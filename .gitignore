@@ -1,0 +1,4 @@
+node_modules
+*.db
+NOTES.md
+.env
